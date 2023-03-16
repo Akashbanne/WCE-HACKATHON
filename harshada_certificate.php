@@ -34,7 +34,7 @@
             <input type="text" name="Occupation" id="Occupation" placeholder="Enter Your Occupation">
             <input type="text" name="Current_Income" id="Current Income" placeholder="Enter Your Current Income">
             <textarea name="desc" id="desc" cols="30" rows="10" placeholder="Provide Your Valuable Feedback"></textarea>
-            <input type = "submit" name="sub" value="Submit">     
+            <input type = "submit" name="sub" href="will.html" value="Submit">     
         </form>
     </div>
     <script src="index.js"></script>
