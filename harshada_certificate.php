@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="harshada_style.css">
 </head>
 <body>
-    <img class="c1.jpg" src="c1.jpg" alt="CERTIFICATION">
+    
     <div class="container">
         <h1>Certification</h1>
         <p>Fill the following information to get your certificate</p>
