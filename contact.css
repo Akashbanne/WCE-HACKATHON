@@ -1,0 +1,12 @@
+.container{
+    margin: auto;
+    background-color: bisque;
+    border: 10px;
+    border-color: black;
+
+}
+
+label{
+padding: 0;
+margin: 0;
+}
