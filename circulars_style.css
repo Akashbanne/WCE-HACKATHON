@@ -1,14 +1,16 @@
 .container{
     max-width:80%;
-    background-color: rgb(164, 236, 241);
+    background-color: rgb(201, 223, 224);
     padding: 34px;
     margin:auto;
+    font-size: 23px;
+    margin-left: 20%;
 
 }
 
 button{
     color: #090909;
-    background-color: bisque;
+    background-color: rgb(243, 226, 207);
     border-color: black;
     border-radius: 0;
     border-width: 0;
@@ -18,6 +20,7 @@ button{
     margin-top: 0%;
     margin-left: 5%;
     text-decoration-color: #a1a1a1;
+    font-size: 30px;
 }
 
 
